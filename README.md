@@ -28,7 +28,7 @@ sudo ./Moodle310update.sh
 git submodule update --remote
 ```
 ## Disable Notifications
-
+- https://docs.moodle.org/310/en/Automatic_updates_deployment
 ```php
  // Moodle configuration file
  
