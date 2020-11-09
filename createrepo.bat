@@ -20,7 +20,7 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
 
-git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 
 git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 
