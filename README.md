@@ -90,7 +90,7 @@ git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks
 
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
-git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
 
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
