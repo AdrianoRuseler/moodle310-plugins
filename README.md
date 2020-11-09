@@ -1,6 +1,6 @@
 # moodle310-plugins
 
-- https://docs.moodle.org/38/en/Administration_via_command_line#Upgrading
+- https://docs.moodle.org/310/en/Administration_via_command_line
 - https://plugins.moodlebites.com/
 
 ## Debian Config
