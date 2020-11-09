@@ -1,0 +1,136 @@
+[submodule "moodle/mod/attendance"]
+	path = moodle/mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+	branch = main
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
+[submodule "moodle/mod/bigbluebuttonbn"]
+	path = moodle/mod/bigbluebuttonbn
+	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
+	branch = v2.3-stable
+[submodule "moodle/question/type/coderunner"]
+	path = moodle/question/type/coderunner
+	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
+	branch = master
+[submodule "moodle/question/behaviour/adaptive_adapted_for_coderunner"]
+	path = moodle/question/behaviour/adaptive_adapted_for_coderunner
+	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
+	branch = master
+[submodule "moodle/lib/editor/atto/plugins/cloze"]
+	path = moodle/lib/editor/atto/plugins/cloze
+	url = https://github.com/dthies/moodle-atto_cloze.git
+	branch = master
+[submodule "moodle/blocks/xp"]
+	path = moodle/blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = master
+[submodule "moodle/enrol/auto"]
+	path = moodle/enrol/auto
+	url = https://github.com/bynare/moodle-enrol_auto.git
+	branch = main
+[submodule "moodle/question/type/oumultiresponse"]
+	path = moodle/question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = master
+[submodule "moodle/mod/scheduler"]
+	path = moodle/mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = master
+[submodule "moodle/blocks/completion_progress"]
+	path = moodle/blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
+	branch = master
+[submodule "moodle/theme/adaptable"]
+	path = moodle/theme/adaptable
+	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
+	branch = master
+[submodule "moodle/mod/choicegroup"]
+	path = moodle/mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+	branch = master
+[submodule "moodle/mod/studentquiz"]
+	path = moodle/mod/studentquiz
+	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
+	branch = master
+[submodule "moodle/lib/editor/atto/plugins/fullscreen"]
+	path = moodle/lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = master
+[submodule "moodle/mod/jitsi"]
+	path = moodle/mod/jitsi
+	url = https://github.com/udima-university/moodle-mod_jitsi.git
+	branch = master
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = master
+[submodule "moodle/report/coursesize"]
+	path = moodle/report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = master
+[submodule "moodle/mod/checklist"]
+	path = moodle/mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+	branch = master
+[submodule "moodle/mod/customcert"]
+	path = moodle/mod/customcert
+	url = https://github.com/markn86/moodle-mod_customcert.git
+	branch = MOODLE_38_STABLE
+[submodule "moodle/course/format/buttons"]
+	path = moodle/course/format/buttons
+	url = https://github.com/brandaorodrigo/moodle-format_buttons.git
+	branch = master
+[submodule "moodle/course/format/collapsibletopics"]
+	path = moodle/course/format/collapsibletopics
+	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
+	branch = moodle39
+[submodule "moodle/report/benchmark"]
+	path = moodle/report/benchmark
+	url = https://github.com/mikasmart/moodle-report_benchmark.git
+	branch = master
+[submodule "moodle/admin/tool/migratehvp2h5p"]
+	path = moodle/admin/tool/migratehvp2h5p
+	url = https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git
+	branch = master
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://bitbucket.org/ciceidev/moodle_block_dedication.git
+	branch = MOODLE_30_STABLE
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = master
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = v3.3.8
+[submodule "moodle/mod/publication"]
+	path = moodle/mod/publication
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
+	branch = MOODLE_39_STABLE
+[submodule "moodle/lib/editor/atto/plugins/justify"]
+	path = moodle/lib/editor/atto/plugins/justify
+	url = https://github.com/moodle-ead/atto_justify.git
+	branch = master
+[submodule "moodle/question/type/ordering"]
+	path = moodle/question/type/ordering
+	url = https://github.com/gbateson/moodle-qtype_ordering.git
+	branch = master
+[submodule "moodle/local/sandbox"]
+	path = moodle/local/sandbox
+	url = https://github.com/moodleuulm/moodle-local_sandbox.git
+	branch = master
+[submodule "moodle/blocks/configurable_reports"]
+	path = moodle/blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+	branch = MOODLE_36_STABLE
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = master
