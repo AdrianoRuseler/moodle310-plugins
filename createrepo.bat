@@ -74,6 +74,7 @@ git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_con
 
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 
+pause
 
 
 
