@@ -106,10 +106,6 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = v3.3.8
-[submodule "moodle/mod/publication"]
-	path = moodle/mod/publication
-	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
-	branch = MOODLE_39_STABLE
 [submodule "moodle/lib/editor/atto/plugins/justify"]
 	path = moodle/lib/editor/atto/plugins/justify
 	url = https://github.com/moodle-ead/atto_justify.git
