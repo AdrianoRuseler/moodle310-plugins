@@ -190,7 +190,7 @@ git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.gi
 
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
-git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
 - https://moodle.org/plugins/atto_justify
