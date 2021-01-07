@@ -95,7 +95,7 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
 ```bash
-git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
+git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
 
 - https://github.com/bostelm/moodle-mod_scheduler
@@ -183,10 +183,7 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 ```bash
 git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
-- https://github.com/jcrodriguez-dis/moodle-mod_vpl
-```bash
-git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
-```
+
 
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
@@ -230,4 +227,9 @@ git submodule deinit <path_to_submodule>
 git rm <path_to_submodule>
 git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
+```
+
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
