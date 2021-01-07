@@ -126,3 +126,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_310_STABLE
+[submodule "moodle/question/type/oumultiresponse"]
+	path = moodle/question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = main
