@@ -30,10 +30,6 @@
 	path = moodle/enrol/auto
 	url = https://github.com/bynare/moodle-enrol_auto.git
 	branch = main
-[submodule "moodle/question/type/oumultiresponse"]
-	path = moodle/question/type/oumultiresponse
-	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
-	branch = master
 [submodule "moodle/mod/scheduler"]
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
