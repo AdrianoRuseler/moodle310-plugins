@@ -218,6 +218,16 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
 ```
 
+- https://moodle.org/plugins/availability_relativedate
+```bash
+git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
+```
+
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
+
 ## Problems with version 3.10
 
 
@@ -229,7 +239,3 @@ git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
 ```
 
-- https://github.com/jcrodriguez-dis/moodle-mod_vpl
-```bash
-git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
-```
