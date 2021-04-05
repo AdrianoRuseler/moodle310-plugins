@@ -138,3 +138,7 @@
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
 	branch = main
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = v3.4.2
