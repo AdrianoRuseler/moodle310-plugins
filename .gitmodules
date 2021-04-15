@@ -138,3 +138,7 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = v3.4.2
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
