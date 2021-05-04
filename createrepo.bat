@@ -10,7 +10,7 @@ git submodule update --init
 
 cd ../..
 
-git submodule add -b v2.3-stable https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
+git submodule add -b v2.4-stable https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
 
 git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 
@@ -46,11 +46,11 @@ git submodule add -b master https://github.com/catalyst/moodle-report_coursesize
 
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
 
-git submodule add -b MOODLE_38_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+git submodule add -b MOODLE_310_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 
 git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
 
-git submodule add -b moodle39 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 
 git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
 
@@ -60,9 +60,9 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 
 git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 
-git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b v3.4.2 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 
-git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 
@@ -73,6 +73,8 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+
+git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 
 pause
 
