@@ -233,7 +233,7 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
-git submodule add -b v3.4.3 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
 - https://github.com/DigiDago/moodle-format_softcourse
