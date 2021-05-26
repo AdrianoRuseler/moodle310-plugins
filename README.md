@@ -215,10 +215,6 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
-- https://github.com/Edunao/moodle-format_ludic
-```bash
-git submodule add -b master https://github.com/Edunao/moodle-format_ludic.git course/format/ludic
-```
 
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
@@ -251,3 +247,8 @@ git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
 ```
 
+
+- https://github.com/Edunao/moodle-format_ludic
+```bash
+git submodule add -b master https://github.com/Edunao/moodle-format_ludic.git course/format/ludic
+```
