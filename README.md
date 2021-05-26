@@ -215,10 +215,16 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+- https://github.com/Edunao/moodle-format_ludic
+```bash
+git submodule add -b master https://github.com/Edunao/moodle-format_ludic.git course/format/ludic
+```
+
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
+
 - https://github.com/moodleou/moodle-qtype_combined
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
