@@ -243,7 +243,7 @@ git submodule add -b MOODLE_310_STABLE https://github.com/DigiDago/moodle-format
 
 - https://github.com/ecampbell/moodle-booktool_wordimport
 ```bash
-git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool//softcourse
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
 ## Problems with version 3.10
