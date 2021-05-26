@@ -150,3 +150,7 @@
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
+[submodule "moodle/question/type/essayautograde"]
+	path = moodle/question/type/essayautograde
+	url = https://github.com/gbateson/moodle-qtype_essayautograde.git
+	branch = master
