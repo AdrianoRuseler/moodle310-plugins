@@ -250,6 +250,10 @@ git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimp
 ```bash
 git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
 ```
+- https://github.com/projectestac/moodle-mod_geogebra
+```bash
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
+```
 
 ## Problems with version 3.10
 
